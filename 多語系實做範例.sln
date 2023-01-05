@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{0DFEDBFC-D17F-4D24-B86A-C67CBDD52527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLanguage", "MultiLanguage\MultiLanguage.csproj", "{39E85C2E-6573-4DD6-90C4-F67D3E89F96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{50594836-13B3-4C51-A9F1-ED4F23A9B63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFEDBFC-D17F-4D24-B86A-C67CBDD52527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFEDBFC-D17F-4D24-B86A-C67CBDD52527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFEDBFC-D17F-4D24-B86A-C67CBDD52527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFEDBFC-D17F-4D24-B86A-C67CBDD52527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E85C2E-6573-4DD6-90C4-F67D3E89F96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E85C2E-6573-4DD6-90C4-F67D3E89F96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E85C2E-6573-4DD6-90C4-F67D3E89F96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E85C2E-6573-4DD6-90C4-F67D3E89F96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50594836-13B3-4C51-A9F1-ED4F23A9B63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50594836-13B3-4C51-A9F1-ED4F23A9B63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50594836-13B3-4C51-A9F1-ED4F23A9B63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50594836-13B3-4C51-A9F1-ED4F23A9B63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		RESX_NeutralResourcesLanguage = zh-TW
+		SolutionGuid = {453BEA29-9515-4D9A-ACD2-B64138B84F4B}
+	EndGlobalSection
+EndGlobal
